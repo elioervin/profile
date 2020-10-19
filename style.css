@@ -1,0 +1,68 @@
+/*background color */
+body{background-color: #E3D888;}
+/* header,footer background */
+.darker-bkgd {background-color: #5A3A31}
+
+/*main title color */
+h1{
+  color:#ffffff
+}
+/*bullets inside container */
+.list-inside li {
+  list-style-position: inside;
+}
+
+/*nav bar text*/
+nav a{
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ffffff;}
+}
+
+/*nav link colors*/
+a:visited{ color: blueviolet}
+a:hover{ color: bisque}
+a:active{ color: red}
+
+
+/*header alignment*/
+header > div > h1 > nav{
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+  background-color: 
+}
+
+/*alignment for photos*/
+div {
+  text-align: center;
+}
+
+/*text alignment to center*/
+main > div > article > section > header > h2, h3 {
+  text-align: center;
+  line-height: 0;
+  margin: 0;
+  padding: 24px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+/*text alignment to center*/
+main > div > article > section > p {
+  text-align: center;
+  line-height: 0;
+  margin: 0;
+  padding: 24px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+/*footer styling*/
+footer > div > nav > p {
+  color: #ffffff;
+  text-align: center;
+  line-height: 0;
+  margin: 0;
+  padding: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
